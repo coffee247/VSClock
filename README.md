@@ -10,13 +10,13 @@ Timers are for when you want to do something once in the future - <em><strong>ti
 ## How to run the Variable Speed Clock App 
 ### *(LINUX version)*
 
-1.  Download the archive titled ["VariableClock_64bit-Linux_Release.tar.xz"](https://github.com/coffee247/Variable-Speed-Clock/raw/master/RELEASE/VariableClock_64bit-Linux_Release.tar.xz) Click link to download.
+1.  Download the archive titled ["VariableSpeedClock.zip"](https://github.com/coffee247/VSClock/blob/master/VariableSpeedClock.zip) Click link to download.
 2.  Extract the archive
 3.  Open the extracted folder in terminal
 4.  Type the following command into terminal
 
 ```
-./VariableClock
+./VSClock
 ```
 5.  The open application will look like the image below.
 
