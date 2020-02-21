@@ -20,4 +20,4 @@ Timers are for when you want to do something once in the future - <em><strong>ti
 ```
 5.  The open application will look like the image below.
 
-<img src="https://github.com/coffee247/Variable-Speed-Clock/blob/master/Clock_Screenshot.png">
+<img src="https://github.com/coffee247/VSClock/blob/master/Clock_Screenshot.png">
