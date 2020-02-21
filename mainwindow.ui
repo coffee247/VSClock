@@ -189,10 +189,13 @@ or slow it down.</string>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">text-color: red;</string>
+     <string notr="true">color: red;</string>
     </property>
     <property name="text">
      <string/>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
     </property>
    </widget>
    <widget class="QWidget" name="layoutWidget">
